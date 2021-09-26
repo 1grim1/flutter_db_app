@@ -1,0 +1,66 @@
+[
+  {
+    "backgroundColor" : "0xFFFF00FF",
+    "title": "ИУ-1",
+    "group": [
+      "51Б",
+      "52Б",
+      "33Б"
+    ]
+  },
+  {
+    "backgroundColor" : "0xFFFFF0FF",
+    "title": "ИУ-2",
+    "group": [
+      "71Б",
+      "82Б",
+      "31Б"
+    ]
+  },
+  {
+    "backgroundColor" : "0xFF0FFFFF",
+    "title": "ИУ-3",
+    "group": [
+      "11Б",
+      "12Б",
+      "31Б"
+    ]
+  },
+  {
+    "backgroundColor" : "0xF00FFFFF",
+    "title": "ИУ-4",
+    "group": [
+      "11Б",
+      "12Б",
+      "31Б"
+    ]
+  },
+  {
+    "backgroundColor" : "0x00FFFFFF",
+    "title": "ИУ-5",
+    "group": [
+      "11Б",
+      "12Б",
+      "31Б"
+    ]
+  },
+  {
+    "backgroundColor" : "0xF0FFF0FF",
+    "title": "ИУ-7",
+    "group": [
+      "11Б",
+      "32Б",
+      "31Б"
+    ]
+  },
+  {
+    "backgroundColor" : "0x0FFF0FFF",
+    "title": "ИУ-9",
+    "group": [
+      "61Б",
+      "62Б",
+      "51Б",
+      "51"
+    ]
+  }
+]
